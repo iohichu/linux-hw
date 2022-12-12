@@ -1,0 +1,47 @@
+   0 whoami
+   1 uptime
+   2 curl ifconfig.co
+   3 curl wttr.in/berlin
+   4 clear
+   5 curl wttr.in/rechitca
+   6 clear
+   7 curl wttr.in/gomel
+   8 clear
+   9 nano fullscript.sh
+  10 chmod 744 fullscript.sh 
+  11 ls
+  12 ./fullscript.sh  
+  13 nano fullscript.sh
+  14 ./fullscript.sh  
+  15 nano fullscript.sh
+  16 ./fullscript.sh  
+  17 nano fullscript.sh
+  18 ./fullscript.sh  
+  19 nano fullscript.sh
+  20 ./fullscript.sh  
+  21 nano fullscript.sh
+  22 ./fullscript.sh  
+  23 clear
+  24 nano fullscript.sh
+  25 clear
+  26 ./fullscript.sh  
+  27 nano fullscript.sh
+  28 ./fullscript.sh  
+  29 nano fullscript.sh
+  30 ./fullscript.sh  
+  31 nano fullscript.sh
+  32 ./fullscript.sh  
+  33 clear
+  34 uptime | awk '{print $1}'
+  35 uptime | awk '{print $2}'
+  36 uptime | awk '{print $3}'
+  37 nano fullscript.sh
+  38 ./fullscript.sh 
+  39 clear
+  40 nano fullscript.sh
+  41 clear
+  42 ./fullscript.sh 
+  43 cat /opt/mydate/newmydate.txt 
+  44 history >> 12.12.2022_43/44m.txt
+  45 history >> 12_12_2022_43/44m.txt
+  46 history >> 12_12_2022_43_44m.txt
